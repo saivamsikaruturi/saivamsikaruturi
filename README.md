@@ -7,6 +7,7 @@
 
  <p align="center">
   <a href="https://www.linkedin.com/in/vamsi-karuturi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vamsi%20Karuturi-blue?style=flat-square">
   </a>
   <a href="https://github.com/saivamsikaruturi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-saivamsikaruturi-black?style=flat-square" alt="GitHub">
