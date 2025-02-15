@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-saivamsikaruturi-black?style=flat-square&logo=github" alt="GitHub">
   </a>
   <a href="mailto:krishnavamsikaruturi8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-krishnavamsikaruturi8%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-krishnavamsikaruturi8%40gmail.com-red?style=flat-square" alt="Email">
   </a>
 </p>
 
@@ -61,9 +61,11 @@
 
 
 ## 📚 Latest Projects & Repos
-- [**Low-Level Design Examples**](https://github.com/saivamsikaruturi/LDD-Snake-Ladder)  
-- [**Spring Boot & Kafka Microservices**](https://github.com/saivamsikaruturi/springboot-kafka-microservices)  
-- [**AWS S3 Integration**](https://github.com/saivamsikaruturi/aws-s3-integration)
+- [**Low-Level Design Examples**](https://github.com/saivamsikaruturi/lld-Design-Patterns)
+- [**Machine-coding-Probelms**](https://github.com/saivamsikaruturi/machine-coding-feedback) 
+- [**Spring Boot & Kafka Microservices**](https://github.com/saivamsikaruturi/Ecommerce-App-Microservices-master/tree/master/Ecommerce-App-Microservices-master)
+- [**Lenskart-React**](https://github.com/saivamsikaruturi/Lenskart-React-)
+  
 
 > **Explore more:** [My Repositories](https://github.com/saivamsikaruturi?tab=repositories)
 
