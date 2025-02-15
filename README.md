@@ -4,16 +4,18 @@
   <b>I'm Vamsi, a Software Engineer with 4+ years of experience in building robust Java-based applications.</b>
 </p>
 
-<p align="center">
 
-  <a href="https://github.com/saivamsikaruturi" target="_blank">GitHub</a>
-
+ <p align="center">
+  <a href="https://www.linkedin.com/in/vamsi-karuturi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vamsi%20Karuturi-blue?style=flat-square">
+  </a>
   <a href="https://github.com/saivamsikaruturi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-saivamsikaruturi-black?style=flat-square" alt="GitHub">
   </a>
   <a href="mailto:krishnavamsikaruturi8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-krishnavamsikaruturi8%40gmail.com-red?style=flat-square" alt="Email">
   </a>
+
 </p>
 
 <p align="center">
