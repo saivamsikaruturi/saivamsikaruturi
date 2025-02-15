@@ -59,19 +59,6 @@
 
 ---
 
-## 🔥 Other Metrics
-
-| Metric                 | Value         |
-|------------------------|--------------:|
-| **Total Stars Earned** |  *~(dynamic)* |
-| **Total Repositories** |  *~(dynamic)* |
-| **Total PRs**          |  *~(dynamic)* |
-| **Total Issues**       |  *~(dynamic)* |
-| **Profile Rating**     |       B+      |
-
-> _You can manually update these values or use GitHub Actions / external services to fetch real-time stats._
-
----
 
 ## 📚 Latest Projects & Repos
 - [**Low-Level Design Examples**](https://github.com/saivamsikaruturi/LDD-Snake-Ladder)  
