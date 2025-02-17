@@ -4,19 +4,18 @@
   <b>I'm Vamsi, a Software Engineer with 4+ years of experience in building robust Java-based applications.</b>
 </p>
 
-
- <p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/vamsi-karuturi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vamsi%20Karuturi-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/saivamsikaruturi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-saivamsikaruturi-black?style=flat-square" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:krishnavamsikaruturi8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-krishnavamsikaruturi8%40gmail.com-red?style=flat-square" alt="Email">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saivamsikaruturi&style=flat-square" alt="Profile Views" />
