@@ -5,16 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vamsi-karuturi" target="_blank" style="margin: 0 10px;">
-    <i class="fab fa-linkedin fa-2x"></i>
+  <a href="https://www.linkedin.com/in/vamsi-karuturi" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=&color=0A66C2&style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/saivamsikaruturi" target="_blank" style="margin: 0 10px;">
-    <i class="fab fa-github fa-2x"></i>
+  <a href="https://github.com/saivamsikaruturi" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=&color=181717&style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:krishnavamsikaruturi8@gmail.com" target="_blank" style="margin: 0 10px;">
-    <i class="fas fa-envelope fa-2x"></i>
+  <a href="mailto:krishnavamsikaruturi8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=&color=D14836&style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
 
 
 
