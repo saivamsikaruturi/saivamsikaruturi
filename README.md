@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vamsi-karuturi" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=&color=0A66C2&style=for-the-badge&logo=Linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/vamsi-karuturi" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://github.com/saivamsikaruturi" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=&color=181717&style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:krishnavamsikaruturi8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=&color=D14836&style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
