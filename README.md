@@ -67,8 +67,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saivamsikaruturi&show_icons=true&theme=react&hide_border=true&cache_seconds=86400&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamsikaruturi&layout=compact&theme=react&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saivamsikaruturi&theme=react" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saivamsikaruturi&theme=react" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivamsikaruturi&theme=react" alt="Profile Details"/>
 </p>
 
 <p align="center">
