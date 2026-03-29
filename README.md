@@ -67,8 +67,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saivamsikaruturi&show_icons=true&theme=react" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamsikaruturi&layout=compact&theme=react" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saivamsikaruturi&show_icons=true&theme=react&hide_border=true&cache_seconds=86400&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamsikaruturi&layout=compact&theme=react&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivamsikaruturi&theme=react&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
